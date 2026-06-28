@@ -1,0 +1,126 @@
+{
+    "cs2-external": {
+        "status": "undetected",
+        "title": "Y8X CS2 External",
+        "game": "Counter-Strike 2",
+        "gameIcon": "🎯",
+        "image": "https://i.imgur.com/BERNwlM.jpeg",
+        "link": "https://www.clictune.com/mGXU",
+        "type": "external",
+        "features": [
+            "Aimbot",
+            "ESP",
+            "Triggerbot",
+            "No Recoil"
+        ]
+    },
+    "cs2-internal": {
+        "status": "undetected",
+        "title": "Y8X CS2 WEB Internal",
+        "game": "Counter-Strike 2",
+        "gameIcon": "🎯",
+        "image": "https://i.imgur.com/BERNwlM.jpeg",
+        "link": "https://www.clictune.com/mHLO",
+        "type": "internal",
+        "features": [
+            "Aimbot",
+            "ESP",
+            "Other"
+        ]
+    },
+    "bloodstrike": {
+        "status": "undetected",
+        "title": "Y8X Bloodstrike Internal",
+        "game": "Bloodstrike",
+        "gameIcon": "🩸",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3199170/eeab00314314192f57bbdf91b91f8b871f890ce5/capsule_616x353.jpg?t=1748342194",
+        "link": "https://www.clictune.com/mIPE",
+        "type": "internal",
+        "hasModal": false,
+        "modalId": "bloodstrike",
+        "features": [
+            "Aimbot",
+            "ESP",
+            "Testing"
+        ]
+    },
+    "fivem": {
+        "status": "undetected",
+        "title": "Nova FiveM External",
+        "game": "FiveM",
+        "gameIcon": "🌐",
+        "image": "https://i.imgur.com/3nDR1pP.png",
+        "link": "#",
+        "type": "external",
+        "hasModal": true,
+        "modalId": "fivem",
+        "features": [
+            "Aimbot",
+            "ESP",
+            "Other"
+        ]
+    },
+    "amnesia": {
+        "status": "undetected",
+        "title": "Amnesia Cheat",
+        "game": "GTA 5 Online",
+        "gameIcon": "🏙️",
+        "image": "https://i.imgur.com/4cLrLrg.png",
+        "link": "#",
+        "type": "internal",
+        "hasModal": true,
+        "modalId": "amnesia",
+        "features": [
+            "God Mode",
+            "Money",
+            "Teleport",
+            "Vehicle Spawn",
+            "No Wanted"
+        ]
+    },
+    "combat-master": {
+        "status": "undetected",
+        "title": "Y8X Internal Combat Master",
+        "game": "Combat Master",
+        "gameIcon": "⚔️",
+        "image": "https://i.imgur.com/kzX30po.jpeg",
+        "link": "https://www.clictune.com/mGS0",
+        "type": "internal",
+        "features": [
+            "Aimbot",
+            "Wallhack",
+            "UnlockALL",
+            "No Spread"
+        ]
+    },
+    "roblox": {
+        "status": "updating",
+        "title": "Script",
+        "game": "Roblox",
+        "gameIcon": "🎮",
+        "image": "https://i.ytimg.com/vi/zowmaH7hc5Q/hqdefault.jpg",
+        "link": "#",
+        "type": "internal",
+        "features": [
+            "Infinite Jump",
+            "Speed",
+            "Teleport"
+        ]
+    },
+    "schedule1": {
+        "status": "undetected",
+        "title": "Y8X Schedule 1",
+        "game": "Schedule 1",
+        "gameIcon": "💊",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1773974661",
+        "link": "https://www.clictune.com/mHUI",
+        "type": "internal",
+        "hasModal": false,
+        "modalId": "schedule1",
+        "features": [
+            "Infinite Money",
+            "No Police",
+            "Speed Hack"
+        ]
+    }
+}
